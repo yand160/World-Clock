@@ -1,5 +1,6 @@
 body {
-  background-color: antiquewhite;
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/056/461/original/fantasy-2531877_1920.jpg?1670218002);
+  background-repeat: no-repeat;
   font-family: sans-serif;
 }
 
@@ -27,7 +28,7 @@ select {
   margin: 60px auto;
   background: whitesmoke;
   padding: 30px;
-  box-shadow: 12px 12px 2px 1px purple;
+  box-shadow: 12px 12px 2px 1px rgb(56, 60, 61);
   border-radius: 10px;
 }
 
